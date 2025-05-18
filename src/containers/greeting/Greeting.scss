@@ -119,6 +119,8 @@
   }
   .greeting-image-div {
     height: 256px;
+    display: flex;
+    justify-content: center;
   }
 }
 
