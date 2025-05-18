@@ -50,7 +50,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Developers Institute",
-      logo: require("./assets/images/di-logo.jpg"),
+      logo: require("./assets/images/diLogo.jpg"),
       subHeader: "Developers Institute, TLV Coding Bootcamp",
       duration: "2025",
       desc: "Full Stack Web Development, Python and JavaScript program",
